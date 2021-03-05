@@ -1,0 +1,319 @@
+
+html,body {
+   display: none;
+/* }
+#navbar {
+    border: none;
+}
+#navbar h1  {
+    float: none;
+    font-size: 30px;
+    text-align: center;
+}
+
+#navbar ul {
+    float: none;
+}
+
+#navbar li {
+    float: none;
+    text-align: center;
+    font-size: 13px;
+   
+    background: none;
+   
+}
+
+#navbar ul li:hover, .current {
+    background: none;
+    border: none;
+}
+
+#navbar ul li a {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.137);
+}
+
+#showcase img{
+   display: none;
+}
+
+#showcase {
+    height: 250px;
+}
+#showcase h1 {
+font-size: 15px;
+position: relative;
+left: 50px;
+top: 100px;
+margin: 0px;
+text-align: center;
+}
+
+#showcase p {
+    font-size: 10px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+    margin: 0px;
+    text-align: center;
+}
+
+.table {
+    text-align: center;
+    margin: 0px;
+    position: relative;
+    left: 140px;
+    top: 100px;
+    font-size: 10px;
+}
+.table:hover {
+    display: none;
+}
+
+#info-section {
+    max-width: 400px;
+    height: 300px;
+}
+
+.info-img {
+    max-width: 53.5%;
+    overflow: auto;
+    background: #333;
+}
+
+.info-img .img1 {
+    width: 150px;
+    margin: 5px 25px;
+    float: none;
+}
+
+.section-h2 {
+    text-align: center;
+    float: none;
+    font-size: 13px;
+    position: relative;
+    top: 0px;
+    left: 25px;
+    margin-left:10px;
+    padding: 0px;
+}
+
+.section-p {
+    float: none;
+    text-align: center;
+    font-size: 10px;
+    position: relative;
+    top: 0;
+    left: 23px;
+
+}
+
+.info-img  .img2 {
+    max-width: 150px;
+    margin-left: 25px;
+
+    float: none;
+}
+
+.section-img2h2 {
+    text-align: center;
+    float: none;
+    font-size: 13px;
+    position: relative;
+    top: -10px;
+    left: 10px;
+    margin-left: 20px;
+    padding: 0px;
+}
+
+.section-img2p {
+    float: none;
+    text-align: center;
+    font-size: 10px;
+    position: relative;
+    top: -10px;
+    left: 10px;
+    margin-left:10px;
+}
+
+.info-text {
+    float: none;
+    width: 45%;
+    height: 350px;
+    position: relative;
+    bottom: 350px;
+    left: 200px;
+    margin-left: 0px;
+}
+
+.text-info2 {
+    float: none;
+    text-align: center;
+    margin: 0px;
+    font-size: 10px;
+
+}
+
+/* .text-info2 p {
+    font-weight: 0;
+    line-height: 1rem;
+}
+
+.text-info2  a {
+ display: none;
+}
+
+.text-info2  a:hover {
+    display: none;
+}
+
+
+#features-section {
+    height: 100px;
+    max-width: 100%;
+    position: relative;
+    top: 47px;
+}
+.location {
+position: relative;
+top: 10px;
+margin: 0px;
+padding: 0px;
+}
+.location .img1 img {
+    display: none;
+}
+.location .img2 img {
+    display: none;
+}
+.location .img3 img,
+.location .img4 img,
+.location .img5 img 
+ {
+    float: none;
+    width: 110px;
+    height: 70px;
+    text-align: center;
+}
+
+.img1, .img2, .img3, .img4, .img5 {
+    padding: 2px;
+    margin: 2px;
+}
+
+/* .dishes .img1 img {
+    width: 20px;
+    height: 10px;
+} */
+/* 
+#footer {
+    padding: 5px;
+    width: 100%;
+    position: relative;
+    top: 48px;
+   
+
+}
+
+.footer-text {
+    font-size: 10px;
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+.contact-list {
+    display: none;
+} */
+
+/* About Showcase */
+/* 
+#about-showcase {
+    height: 300px
+}
+.about-content {
+    padding-top: 30px;
+}
+
+.about-content i {
+display: none;
+}
+
+.about-content h1 {
+    text-align: center;
+    font-size: 25px;
+    padding-top: 50px;
+}
+
+.about-content p {
+    font-size: 10px;
+    line-height: 1.1em;
+}
+
+#about-section {
+    height: 200px;
+}
+
+.history-text {
+    float: none;
+    max-width: 60%;
+}
+.history-img img {
+  display: none;
+}
+
+.history-text h1 {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.history-text p {
+    margin-left: 30px;
+    font-size: 10px;
+    line-height: 1.7;
+}
+
+hr {
+  display: none;
+}
+
+#testamonials-section {
+    height: 300px;
+}
+
+.testamonials-container h1 {
+    padding: 10px;
+    padding-top: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.person-1 {
+padding: 0px;
+margin: 0px;
+height: 50px;
+width: 60%;
+text-align: center;
+font-size: 10;
+line-height: 1.1em;
+position: relative;
+bottom: 50px;
+
+}
+
+.person-1 img {
+max-width: 50px;
+float: none;
+margin-left: 30px;
+position: relative;
+top: 0px;
+}
+
+.person-1 p {
+    font-size: 10px;
+    position: relative;
+    top: 5px;
+    line-height: 2px;
+}  */ 
