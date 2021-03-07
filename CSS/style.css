@@ -611,3 +611,7 @@ background: #a67c00;
     margin-top: 10px;
     color: black;
 }
+
+.form-group {
+    max-width: 99%;
+}
